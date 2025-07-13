@@ -1,0 +1,11 @@
+{
+    "moves": [
+      { "playerIndex": 0, "row": 1, "col": 2 },
+      { "playerIndex": 1, "row": 3, "col": 5 },
+      { "playerIndex": 0, "row": 0, "col": 1 },
+      { "playerIndex": 1, "row": 4, "col": 7 },
+      { "playerIndex": 0, "row": 2, "col": 3 },
+      { "playerIndex": 1, "row": 5, "col": 6 }
+    ]
+  }
+  

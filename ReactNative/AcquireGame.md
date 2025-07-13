@@ -79,7 +79,7 @@ The backend is hosted on Render at:
 - The backend handles critical game logic, such as bot strategies, tile placements, and determining winners.
 - The backend may go into a "sleep" state after inactivity due to hosting limitations.  
   - The app automatically pings the backend to wake it up.
-  - If this fails, visit the backend URL in your browser to activate it manually.
+  - **If this fails, visit the backend URL in your browser to activate it manually.**
 
 ---
 
